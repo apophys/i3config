@@ -1,0 +1,6 @@
+gnome-terminal
+rofi
+pactl
+xbacklight
+playerctl
+feh
