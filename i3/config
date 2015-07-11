@@ -39,7 +39,7 @@ bindsym $mod+Shift+q kill
 # shipping a .desktop file. It is a wrapper around dmenu, so you need that
 # installed.
 # bindsym $mod+d exec --no-startup-id i3-dmenu-desktop
-bindsym $mod+d exec --no-startup-id rofi -now -font “snap 10” -opacity 25 -fg "#000000" -bg "#999999" -hlfg "#0000ff" -hlbg "#999999" -show run
+bindsym $mod+d exec --no-startup-id rofi -font "snap 10" -opacity 25 -fg "#000000" -bg "#999999" -hlfg "#0000ff" -hlbg "#999999" -show run
 
 # change focus
 bindsym $mod+j focus left
