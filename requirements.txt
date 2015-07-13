@@ -1,6 +1,5 @@
-gnome-terminal
 rofi
 playerctl
 xorg-xbacklight
-playerctl
 feh
+urxvt
